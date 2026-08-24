@@ -70,7 +70,7 @@ Para executar o projeto localmente, basta clonar o repositório e abrir o arquiv
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/barbswank/ecommerce-syntaxwear.git
+git clone https://github.com/barbcarol-dev/ecommerce-syntaxwear.git
 ```
 
 2. Acesse a pasta do projeto
